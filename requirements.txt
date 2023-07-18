@@ -1,0 +1,12 @@
+langchain 
+openai 
+unstructured 
+unstructured[local-inference] 
+chroma 
+chromadb 
+python-dotenv 
+tiktoken 
+gradio
+langdetect
+deep-translator
+llama-index
